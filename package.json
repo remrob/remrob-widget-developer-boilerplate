@@ -1,0 +1,20 @@
+{
+  "name": "remrob-widget-dev",
+  "version": "1.0.0",
+  "description": "REMROB Widget Development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon --watch src server.js"
+  },
+  "author": "Emir Bakhtarov",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3",
+    "websocket": "^1.0.26",
+    "ws": "^6.0.0"
+  }
+}
