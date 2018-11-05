@@ -3,7 +3,7 @@ A starter boilerplate for development of REMROB widgets using reload hooks, chok
 
 
 Step 1
-![alt text](images/WidgetDeveloper_1.png | width=200)
+![alt text](images/WidgetDeveloper_1.png =200x)
 
 Step 2
-![alt text](images/WidgetDeveloper_1.png | width=200)
+![alt text](images/WidgetDeveloper_1.png =200x)
